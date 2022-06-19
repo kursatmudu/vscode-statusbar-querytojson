@@ -1,7 +1,6 @@
 # querytojson README
 
-This is the README for your extension "querytojson". After writing up a brief description, we recommend including the following sections.
-
+This software converts web query to json type.
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
